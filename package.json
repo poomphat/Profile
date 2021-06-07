@@ -2,7 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://poomphat.github.io/Profile",
+  "homepage": "https://poomphat.github.io",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@craco/craco": "^6.1.2",
