@@ -2,7 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://poomphat.github.io/profile/",
+  "homepage": "https://poomphat.github.io/profile",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@craco/craco": "^6.1.2",
@@ -52,7 +52,7 @@
     ]
   },
   "devDependencies": {
-    "@types/base-64": "^1.0.0",
+    "@types/webpack-sources": "^1.4.3",
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
